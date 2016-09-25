@@ -1,8 +1,1 @@
 alert("Привет мир")
-if(you == fool) {
-alert("Comon")
-}
-
-and now
-
-alert("The End")
