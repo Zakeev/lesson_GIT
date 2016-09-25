@@ -1,1 +1,2 @@
 Print("Welkom");
+print("Guten Tag");
