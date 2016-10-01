@@ -1,1 +1,2 @@
 alert("Привет мир")
+print("Hello, my friend")
